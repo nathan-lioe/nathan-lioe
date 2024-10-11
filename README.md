@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello there! 👋 Welcome to Nathan's profile
 
-<!--
-**nathan-lioe/nathan-lioe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Florida International University (FIU), with a passion to learn the latest technologies. In recent months, I have been exploring Full-Stack Development and Machine learning. Furthermore, I am currently the Director of logistics at INIT FIU. I am passionate about making a positive impact in my community. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: PyTorch, Convolutional Neural Networks (CNNs), Go and Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Experience
+---
+
+
+- FIU KFCIS - Student Teaching Assistant  (August 2024 – Present)
+  *   Evaluated and graded coding assignments and projects, delivering feedback to enhance understanding of
+**C** fundamentals, **memory management**, **multi-threading**, and other core systems concepts.
+  *  Tutored students on foundational C programming, including **dynamic memory allocation**, **UNIX**
+command-line tools, and multi-threaded programming techniques.
+
+- Director of Logistics - INIT FIU  (January 2024 – Present)
+  *   Collaborated with a team of **30 students** to empower underserved communities to launch careers in technology.
+  *   Managed and tracked inventory, updating records and coordinating with the team ensuring equipment availability.
+  *   Handled the transportation, coordination and the setup of any new equipment that the organization received.
+  *   Collaborated with the team to strategically plan and secure classroom reservations for workshops and events.
+
