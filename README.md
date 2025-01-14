@@ -9,7 +9,7 @@ Experience
 ---
 
 
-- FIU KFCIS - Student Teaching Assistant  (August 2024 – Present)
+- FIU KFCIS - Student Teaching Assistant  (August 2024 – December 2024)
   *   Evaluated and graded coding assignments and projects, delivering feedback to enhance understanding of
 **C** fundamentals, **memory management**, **multi-threading**, and other core systems concepts.
   *  Tutored students on foundational C programming, including **dynamic memory allocation**, **UNIX**
