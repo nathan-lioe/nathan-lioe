@@ -7,6 +7,7 @@ I'm a Computer Science student at Florida International University (FIU), with a
 
 📚 Currently Learning
 - Database and operating systems
+- Quantum Computing
 
 
 
